@@ -1,0 +1,15 @@
+C:\Users\AsusAMD5\Desktop\Обучение программированию\Python\Lekciya\lection1\bin\Debug\net6.0\lection1.exe
+C:\Users\AsusAMD5\Desktop\Обучение программированию\Python\Lekciya\lection1\bin\Debug\net6.0\lection1.deps.json
+C:\Users\AsusAMD5\Desktop\Обучение программированию\Python\Lekciya\lection1\bin\Debug\net6.0\lection1.runtimeconfig.json
+C:\Users\AsusAMD5\Desktop\Обучение программированию\Python\Lekciya\lection1\bin\Debug\net6.0\lection1.dll
+C:\Users\AsusAMD5\Desktop\Обучение программированию\Python\Lekciya\lection1\bin\Debug\net6.0\lection1.pdb
+C:\Users\AsusAMD5\Desktop\Обучение программированию\Python\Lekciya\lection1\obj\Debug\net6.0\lection1.csproj.AssemblyReference.cache
+C:\Users\AsusAMD5\Desktop\Обучение программированию\Python\Lekciya\lection1\obj\Debug\net6.0\lection1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusAMD5\Desktop\Обучение программированию\Python\Lekciya\lection1\obj\Debug\net6.0\lection1.AssemblyInfoInputs.cache
+C:\Users\AsusAMD5\Desktop\Обучение программированию\Python\Lekciya\lection1\obj\Debug\net6.0\lection1.AssemblyInfo.cs
+C:\Users\AsusAMD5\Desktop\Обучение программированию\Python\Lekciya\lection1\obj\Debug\net6.0\lection1.csproj.CoreCompileInputs.cache
+C:\Users\AsusAMD5\Desktop\Обучение программированию\Python\Lekciya\lection1\obj\Debug\net6.0\lection1.dll
+C:\Users\AsusAMD5\Desktop\Обучение программированию\Python\Lekciya\lection1\obj\Debug\net6.0\refint\lection1.dll
+C:\Users\AsusAMD5\Desktop\Обучение программированию\Python\Lekciya\lection1\obj\Debug\net6.0\lection1.pdb
+C:\Users\AsusAMD5\Desktop\Обучение программированию\Python\Lekciya\lection1\obj\Debug\net6.0\lection1.genruntimeconfig.cache
+C:\Users\AsusAMD5\Desktop\Обучение программированию\Python\Lekciya\lection1\obj\Debug\net6.0\ref\lection1.dll
